@@ -48,7 +48,7 @@ All user actions take place in the streams-utils subdirectory of StreamsML
 **System Requirements**  
 In order to use Nvidia HPC SDK, version 24.7-devel-cuda_multi-ubuntu22.04, the following requirements must be met:
 
-![Nvidia HPC SDK system requirements](StreamsML/streams/svgs/NvidiaHPCsysreq.png)
+![Nvidia HPC SDK system requirements](../streams/svgs/NvidiaHPCsysreq.png)
 
 Complete tag information can be found at https://docs.nvidia.com/hpc-sdk/archive/24.7/hpc-sdk-release-notes/index.html  
 Other tags can be found here: https://catalog.ngc.nvidia.com/orgs/nvidia/containers/nvhpc/tags
